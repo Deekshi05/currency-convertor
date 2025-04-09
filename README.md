@@ -1,1 +1,2 @@
-# currency-convertor
+
+Currency Converter is a sleek and responsive web application built using React and Vite that allows users to convert between different currencies in real-time. It features a user-friendly interface with input fields for amount and currency selection, a swap function, and real-time exchange rates fetched via a custom React hook. The design follows a clean, glassmorphic aesthetic to enhance user experience.
